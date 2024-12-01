@@ -42,7 +42,7 @@ Dalam studi kasus ini, kelas AsuransiJiwa dan AsuransiKesehatan mewarisi method 
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/mrijal/UTS_PBO1_223KA_23552011138">Github</a></li>
-  <li>Youtube: <a href="https://youtu.be/jZtTSshv6ro">Youtube</a></li>
+  <li>Github: <a href="https://github.com/mrijal/UTS_PBO1_223KA_23552011138" target="_blank">Github</a></li>
+  <li>Youtube: <a href="https://youtu.be/jZtTSshv6ro" target="_blank">Youtube</a></li>
 </ul>
 
